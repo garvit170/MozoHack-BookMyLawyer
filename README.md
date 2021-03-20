@@ -14,13 +14,13 @@ BookMyLawyer is an online platform that allows users to find lawyers as per thei
    ![Screenshot](Screenshots/LawyerDash.png)
 
 4. Lawyer Registration Form
-   ![Screenshot](Screenshots/lawyerform.png)
+   ![Screenshot](Screenshots/Lawyerform.png)
 
 5. User Registration Form 
    ![Screenshot](Screenshots/Userform.png)
 
 6. Find Lawyer
-   ![Screenshot](Screenshots/findlawyer.png)
+   ![Screenshot](Screenshots/findLawyer.png)
 
 7. Sign In
    ![Screenshot](Screenshots/SignIn.png)
